@@ -1,0 +1,2 @@
+# Tietoturvasuunnittelu
+Keskiviikkoillan tietoturvasuunnittelun harjoitukset
